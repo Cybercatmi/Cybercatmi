@@ -16,11 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://readme-cybercatmis-projects.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api?username=Cybercatmi&theme=synthwave" alt="Anurag's GitHub stats">
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybercatmi&theme=synthwave" alt="Top Languages">
+  </a>
 </div>
+
+
+
+
+
 
 
 <!--
