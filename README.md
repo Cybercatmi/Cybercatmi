@@ -1,20 +1,23 @@
-## Hii<3
+## *Hi baby, how are you?<3*
 
-<!--
-**Cybercatmi/Cybercatmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No sé usar github aún, pero logré poner estos gráficos y voy a llenar las sugerencias de git:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+- 🔭 I’m currently working on: nothing
+- 🌱 I’m currently learning: a lot
+- 👯 I’m looking to collaborate with: Michael B. Jordan
+- 🤔 I’m looking for help with: nothing (idk how to ask for help)
+- 💬 Ask me about: The hunger games
+- 📫 How to reach me: don't
+- 😄 Pronouns: her/she (like the chocolate)
+- ⚡ Fun fact: im so funny i laugh at my own jokes
+
+
+
+<h1 align="center"> Stats </h1>
+
+---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://readme-cybercatmis-projects.vercel.app/">
