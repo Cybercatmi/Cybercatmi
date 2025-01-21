@@ -3,19 +3,41 @@
 No sé usar github aún, pero logré poner estos gráficos y voy a llenar las sugerencias de git:
 
 
-
-- 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: a lot
-- 👯 I’m looking to collaborate with: Michael B. Jordan
-- 🤔 I’m looking for help with: nothing (idk how to ask for help)
-- 💬 Ask me about: The hunger games
-- 📫 How to reach me: don't
-- 😄 Pronouns: her/she (like the chocolate)
-- ⚡ Fun fact: im so funny i laugh at my own jokes
+<h1 align="center" style="font-family: Courier;">About me</h1>
 
 
+---
 
-<h1 align="center"> Stats </h1>
+- **🔭 I’m currently working on:** nothing
+- **🌱 I’m currently learning:** a lot
+- **👯 I’m looking to collaborate with:** Michael B. Jordan
+- **🤔 I’m looking for help with:** nothing (idk how to ask for help)
+- **💬 Ask me about:** The hunger games
+- **📫 How to reach me:** don't
+- **😄 Pronouns:** her/she*y (like the chocolate)*
+
+
+
+<h1 align="center" style="font-family: Courier;">About me (not git)</h1>
+
+---
+<h3 align="center" style="font-family: Courier New">Me gustan los deportes</h2>
+
+<div align="center">
+ 💃 Bailar |  🏊‍♀️ Natación |  🛼 Patinar | 🏃‍♀️ Entre otros
+</div>
+
+<h3 align="center" style="font-family: Courier New">y los idiomas</h2>
+
+<div align="center">
+    <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="20"> (B2) |  
+    <img src="https://hatscripts.github.io/circle-flags/flags/cl.svg" width="20"> (native) | 
+    <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20"> (A1) | 
+    <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="20"> (starting) | 
+    <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20"> (nivel cero)
+</div>
+
+<h1 align="center" style="font-family: Courier;">Stats</h1>
 
 ---
 
