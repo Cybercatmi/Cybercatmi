@@ -50,12 +50,10 @@ No sé usar github aún, pero logré poner bonito el readme jeje
 </div>
 
 
-
-
-
-
-
-<!--
-## 🌐 ¡Add me!
-- [LinkedIn](https://www.linkedin.com/in/tuUsuario)
--->
+<div align="right">
+<sub>
+Made with:
+<a href="https://github.com/anuraghazra/github-readme-stats"> Github Readme Stats</a>,
+<a href="https://github.com/HatScripts/circle-flags"> Circle Flags </a>
+</sub>
+</div>
