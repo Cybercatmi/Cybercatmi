@@ -36,7 +36,7 @@ No sé usar github aún, pero logré poner bonito el readme jeje
 
 <div align="center">
     <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="20"> Portuguese (starting) | 
-    <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20"> French (nivel cero)
+    <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20"> French (i wanna say starting...)
 </div>
 
 <h1 align="center" style="font-family: Courier;">Stats</h1>
