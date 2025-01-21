@@ -1,7 +1,6 @@
 ## *Hi baby, how are you?<3*
 
-No sé usar github aún, pero logré poner estos gráficos y voy a llenar las sugerencias de git:
-
+No sé usar github aún, pero logré poner bonito el readme jeje
 
 <h1 align="center" style="font-family: Courier;">About me</h1>
 
