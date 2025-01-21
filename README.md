@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="readme-m3fveo1ij-cybercatmis-projects.vercel.app">
+  <a href="https://readme-cybercatmis-projects.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api?username=Cybercatmi&theme=synthwave" alt="Anurag's GitHub stats">
   </a>
 </div>
