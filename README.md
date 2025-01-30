@@ -29,7 +29,7 @@ No sé usar github aún, pero logré poner bonito el readme jeje
 <h3 align="center" style="font-family: Courier New">y los idiomas</h2>
 
 <div align="center">
-    <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="20"> English (B2) |  
+    <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="20"> English (C1) |  
     <img src="https://hatscripts.github.io/circle-flags/flags/cl.svg" width="20"> Spanish (native) | 
     <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20"> Italian (A1)
 </div>
